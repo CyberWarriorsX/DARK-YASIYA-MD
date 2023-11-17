@@ -2,7 +2,7 @@
                "name": "Dark-Yasiya-Md",
                "version": "2.0",
                "description": "Multi device whatsapp bot by Yasiya.",
-               "main": "lib/client.s",
+               "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
